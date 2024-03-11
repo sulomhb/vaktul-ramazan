@@ -20,6 +20,7 @@ const App = () => {
     Tromso : {name: "Tromsø", lat: 69.6489, lon: 18.95508},
     Skien : {name: "Skien", lat: 59.20962, lon: 9.60897},
     Porsgrunn : {name: "Porsgrunn", lat: 59.14054, lon: 9.6561},
+    Drammen : {name: "Drammen", lat: 59.74389, lon: 10.20449},
   };
 
   const handleCitySelection = (e) => {
